@@ -1,0 +1,85 @@
+* kaggle competition
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:02:38
+[[file:kaggle competition/screenshot_2018-06-25_05-02-38.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:03:07
+[[file:kaggle competition/screenshot_2018-06-25_05-03-07.png]]
+- keras
+- XGBoost
+- Spark
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:04:09
+[[file:kaggle competition/screenshot_2018-06-25_05-04-09.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:05:47
+[[file:kaggle competition/screenshot_2018-06-25_05-05-47.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:06:52
+[[file:kaggle competition/screenshot_2018-06-25_05-06-52.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:07:33
+[[file:kaggle competition/screenshot_2018-06-25_05-07-33.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:08:07
+[[file:kaggle competition/screenshot_2018-06-25_05-08-07.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:09:10
+[[file:kaggle competition/screenshot_2018-06-25_05-09-10.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:09:37
+[[file:kaggle competition/screenshot_2018-06-25_05-09-37.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:10:10
+[[file:kaggle competition/screenshot_2018-06-25_05-10-10.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:11:30
+[[file:kaggle competition/screenshot_2018-06-25_05-11-30.png]]
+
+All text with red color, are powerful algo, you should study them hard.
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:12:59
+[[file:kaggle competition/screenshot_2018-06-25_05-12-59.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:13:22
+[[file:kaggle competition/screenshot_2018-06-25_05-13-22.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:13:52
+[[file:kaggle competition/screenshot_2018-06-25_05-13-52.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:14:19
+[[file:kaggle competition/screenshot_2018-06-25_05-14-19.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:15:07
+[[file:kaggle competition/screenshot_2018-06-25_05-15-07.png]]
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:16:39
+[[file:kaggle competition/screenshot_2018-06-25_05-16-39.png]]
+
+
+
+#+DOWNLOADED: /tmp/screenshot.png @ 2018-06-25 05:16:58
+[[file:kaggle competition/screenshot_2018-06-25_05-16-58.png]]
